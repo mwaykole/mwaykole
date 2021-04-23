@@ -2,11 +2,11 @@
 <h3 align="center">Python Devloper</h3>
 
 
-- 🔭 I’m currently working on **glusterfs & RHHI-V
+- 🔭 I’m currently working on glusterfs & RHHI-V
 
-- 🌱 I’m currently learning **GO, Kubernetes, Kubernetes Operator
+- 🌱 I’m currently learning GO, Kubernetes, Kubernetes Operator
 
-- 💬 Ask me about **Anything..**
+- 💬 Ask me about Anything..
 
 <hi>Connect me <h1>
 <p align="left">
