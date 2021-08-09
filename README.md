@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Milind Waykole</h1>
 <h3 align="center">Python Devloper</h3>
 
+I work in Red Hat ad  Associate Software Quality engineer, mostly I contribute in developing testing framework and end to end  test-case Automation
+I have a passion for programming, and good understand of the programing language like python. In my free time i like to improve  myself and explore the future technology. I believe in continuous learning and like to always stay up to date as per market demands.And would love to work on cool projects :-).
 
 - 🔭 I’m currently working on glusterfs & RHHI-V
 
