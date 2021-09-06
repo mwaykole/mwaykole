@@ -6,9 +6,9 @@ I have a passion for programming, and good understand of the programing language
 
 - 🔭 I’m currently working on glusterfs & RHHI-V
 
-- 🌱 I’m currently learning GO, Kubernetes, Kubernetes Operator
+- 🌱 I’m currently learning GO, Kubernetes, Machine Learning and expertise in mathematics 
 
-- 💬 Ask me about Anything..
+- 💬 Ask me about Anything mayt be ican google and answer u ..
 
 <hi>Connect me <h1>
 <p align="left">
