@@ -8,12 +8,12 @@ I have a passion for programming, and good understand of the programing language
 
 - 🌱 I’m currently learning GO, Kubernetes, Machine Learning and expertise in mathematics 
 
-- 💬 Ask me about Anything mayt be ican google and answer u ..
+- 💬 Ask me about Anything mayt be i can google and answer u .. 😀
 
 <hi>Connect me <h1>
 <p align="left">
 <a href="https://linkedin.com/in/milind-waykole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="milind-waykole" height="30" width="40" /></a>
-<a href="https://instagram.com/milind_waykole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="milind_waykole" height="30" width="40" /></a>
+<!-- <a href="https://instagram.com/milind_waykole" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="milind_waykole" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
