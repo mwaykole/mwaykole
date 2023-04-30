@@ -4,11 +4,11 @@
 I work in Red Hat ad  Associate Software Quality engineer, mostly I contribute in developing testing framework and end to end  test-case Automation
 I have a passion for programming, and good understand of the programing language like python. In my free time i like to improve  myself and explore the future technology. I believe in continuous learning and like to always stay up to date as per market demands.And would love to work on cool projects :-).
 
-- 🔭 I’m currently working on glusterfs & RHHI-V
-
+- 🔭 I’m currently working on Redhat hat Openshift AI
+-  Experience in storage and hyperconverged infrastructure 
 - 🌱 I’m currently learning GO, Kubernetes, Machine Learning and expertise in mathematics 
 
-- 💬 Ask me about Anything mayt be i can google and answer u .. 😀
+- 💬 Ask me about AI ++
 
 <hi>Connect me <h1>
 <p align="left">
